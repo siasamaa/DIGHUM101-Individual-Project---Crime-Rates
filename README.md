@@ -1,4 +1,4 @@
-# Project Title: Impact of Gender and Season on Crime Rates 
+# Project Title: Factors Impacting Crime Rates & Trends of Crime Over Time
 
 ![Crime Rates Data]([(https://github.com/siasamaa/DIGHUM101-Individual-Project---Crime-Rates/blob/main/crime%20rates%20header%20image.png?raw=true)](https://github.com/siasamaa/DIGHUM101-Individual-Project---Crime-Rates/blob/814a174914543a24aee74701cb12e3207ccebc01/crime%20rates%20header%20image.png))
 
